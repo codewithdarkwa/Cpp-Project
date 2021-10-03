@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1626138122 source:c:\users\jnrdr\desktop\c++\project\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<windows.h>
+
+1626138122 source:c:\users\jnrdr\onedrive\desktop\code_c++\project\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<windows.h>
+
